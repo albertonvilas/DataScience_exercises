@@ -1,3 +1,5 @@
-# machine_learning_learn
+# Data Science Exercises
 
-Random stuff about Machine Learning
+Random stuff that i did in my path in DataScience.
+
+Include exercises and my solutions to the problems
