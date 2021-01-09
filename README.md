@@ -1,3 +1,3 @@
-# learn_machine_learning
+# machine_learning_learn
 
 Random stuff about Machine Learning
